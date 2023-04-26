@@ -1,4 +1,4 @@
-package com.example.assesmentanywhererealestate.data
+package com.example.assesmentanywhererealestate.data.model
 
 data class IconResponse(
     val Height: String,

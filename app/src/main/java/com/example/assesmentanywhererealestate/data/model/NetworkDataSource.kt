@@ -1,4 +1,4 @@
-package com.example.assesmentanywhererealestate.data
+package com.example.assesmentanywhererealestate.data.model
 
 import com.example.assesmentanywhererealestate.BuildConfig
 import retrofit2.Call

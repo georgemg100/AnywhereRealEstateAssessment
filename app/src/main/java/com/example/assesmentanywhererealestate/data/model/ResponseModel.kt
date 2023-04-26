@@ -1,4 +1,4 @@
-package com.example.assesmentanywhererealestate.data
+package com.example.assesmentanywhererealestate.data.model
 
 import com.google.gson.annotations.SerializedName
 
